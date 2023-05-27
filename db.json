@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "john jones",
+      "username": "jones",
+      "email": "jones@g.co",
+      "phone": "654321",
+      "website": "web",
+      "id": 3
+    },
+    {
+      "name": "sandeep k",
+      "username": "sandeep",
+      "email": "sandeep@g.co",
+      "phone": "123456789",
+      "website": "front",
+      "id": 4
+    }
+  ]
+}
